@@ -6,9 +6,7 @@
 
 Занимая должность QA-инженера работал на высоконагруженном международном CRM-проекте, D2C-платформе (ведущий в России и СНГ маркетплейс хенд-мейд товаров) и в PropTech-компании.
 
-Имею опыт работы по SCRUM + Agile, опыт тестирования frontend и backend-частей веб-приложений и мобильных приложений, монолитной и микросервисной архитектуры, опыт работы с логами, опыт проведения функционального, регрессионного, приемочного, интеграционного тестирования.
-
-Имею базовые знания в автоматизации тестирования на Java с использованием Selenium, REST Assured и JUnit.
+Имею опыт работы по SCRUM + Agile, опыт тестирования frontend и backend-частей веб-приложений и мобильных приложений, монолитной и микросервисной архитектуры, опыт работы с логами, опыт проведения функционального, регрессионного, приемочного, интеграционного тестирования. Занимался автоматизацией тестирования UI и API на проекте по готовому фреймворку. Вел Postman collections проекта.
 
 Уровень английского - B2.
 
@@ -46,7 +44,8 @@
   <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="40" height="40"/>&nbsp
   <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" title="postman" alt="postman" width="40" height="40"/>&nbsp
   <img src="https://static-00.iconduck.com/assets.00/apps-insomnia-icon-2048x2048-2mq9u7v5.png" title="insomnia" alt="insomnia" width="40" height="40"/>&nbsp
-    <img src="https://www.megaleechers.com/storage/Fiddler-Everywhere-Icon.png" title="fiddler" alt="fiddler" width="40" height="40"/>&nbsp
+  <img src="https://www.megaleechers.com/storage/Fiddler-Everywhere-Icon.png" title="fiddler" alt="fiddler" width="40" height="40"/>&nbsp
+  <img src="https://static-00.iconduck.com/assets.00/swagger-icon-1024x1024-09037v1r.png" title="swagger" alt="swagger" width="40" height="40"/>&nbsp
 </div>
 
 ---
